@@ -1,6 +1,6 @@
 # X-CASH Proof of stake scripts
 
-These scripts are for maintencing a delegate.
+These scripts are for maintencing a delegate in X-CASH proof of stake.
 
 restart_daemon - Script to restart the daemon if it stops syncing
 
